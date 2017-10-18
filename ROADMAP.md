@@ -28,3 +28,4 @@ This document gives an idea of the next steps for the Fake News Detector extensi
 ### Maybe Someday
 
 - Have a mobile app/mobile/plugin/custom browser/idk so users can also use the Fake News Detector on mobile (which is the main way people consume news nowadays)
+- Allow to submit text and images pieces to analyze, since not always rumors are in links (there are a LOT of rumors running in WhatsApp)
