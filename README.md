@@ -1,2 +1,3 @@
-# fake-news-detector.github.io
+# fakenewsdetector.org
+
 Site for the Fake News Detector
